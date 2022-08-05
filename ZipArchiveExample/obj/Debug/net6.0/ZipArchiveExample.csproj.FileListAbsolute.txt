@@ -1,0 +1,15 @@
+C:\Dev\Example-Code\ZipArchiveExample\bin\Debug\net6.0\ZipArchiveExample.exe
+C:\Dev\Example-Code\ZipArchiveExample\bin\Debug\net6.0\ZipArchiveExample.deps.json
+C:\Dev\Example-Code\ZipArchiveExample\bin\Debug\net6.0\ZipArchiveExample.runtimeconfig.json
+C:\Dev\Example-Code\ZipArchiveExample\bin\Debug\net6.0\ZipArchiveExample.dll
+C:\Dev\Example-Code\ZipArchiveExample\bin\Debug\net6.0\ZipArchiveExample.pdb
+C:\Dev\Example-Code\ZipArchiveExample\obj\Debug\net6.0\ZipArchiveExample.csproj.AssemblyReference.cache
+C:\Dev\Example-Code\ZipArchiveExample\obj\Debug\net6.0\ZipArchiveExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Example-Code\ZipArchiveExample\obj\Debug\net6.0\ZipArchiveExample.AssemblyInfoInputs.cache
+C:\Dev\Example-Code\ZipArchiveExample\obj\Debug\net6.0\ZipArchiveExample.AssemblyInfo.cs
+C:\Dev\Example-Code\ZipArchiveExample\obj\Debug\net6.0\ZipArchiveExample.csproj.CoreCompileInputs.cache
+C:\Dev\Example-Code\ZipArchiveExample\obj\Debug\net6.0\ZipArchiveExample.dll
+C:\Dev\Example-Code\ZipArchiveExample\obj\Debug\net6.0\refint\ZipArchiveExample.dll
+C:\Dev\Example-Code\ZipArchiveExample\obj\Debug\net6.0\ZipArchiveExample.pdb
+C:\Dev\Example-Code\ZipArchiveExample\obj\Debug\net6.0\ZipArchiveExample.genruntimeconfig.cache
+C:\Dev\Example-Code\ZipArchiveExample\obj\Debug\net6.0\ref\ZipArchiveExample.dll
